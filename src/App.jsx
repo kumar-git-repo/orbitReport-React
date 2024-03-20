@@ -1,4 +1,4 @@
-// import "./styles.css";
+
 import { useState } from "react";
 import satData from "./components/satData";
 import Buttons from "./components/Buttons";
